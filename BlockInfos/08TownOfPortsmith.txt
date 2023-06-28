@@ -1,0 +1,111 @@
+Town of Portsmith
+----------------
+19D800
+
+[X=A433] ()
+
+[XX]A4EA
+[00]A63A - InnText1 
+[02]A661 - A65C InnText2
+[04]A684 - A686 InnText3
+[06]A4E9
+[08]A4E9
+[0A]A4E9
+[0C]A4E9
+[0E]A4E9
+[10]AA46 - A9CD FoodText1
+[12]AA5F - A9DB FoodText2
+[14]AA7A - A9F4 FoodText3
+[16]A4E9
+[18]A4E9
+[1A]A4E9
+[1C]A4E9
+[1E]A4E9
+[20]A902 - A8CB BlacksmithText1
+[22]A91F - A8E7 BlacksmithText2
+[24]A936 - A8F2 BlacksmithText3
+[26]A953 - A903 BlacksmithText4
+[28]A974 - A92C BlacksmithText5
+[2A]A98F - A93E BlacksmithText6
+[2C]A9B5 - A950 BlacksmithText7
+[2E]A9D4 - A965 BlacksmithText8
+[30]A4E9 
+[32]A4E9
+[34]A4E9
+[36]A4E9
+[38]A4E9
+[3A]A4E9
+[3C]A4E9
+[3E]A4E9
+[40]AEAC - AE0C TempleText1
+[42]AECB - AE20 TempleText2
+[44]AEE7 - AE2D TempleText3
+[46]AF09 - AE3F TempleText4
+[48]AF24 - AE50 TempleText5
+[4A]AF47 - AE6E TempleText6
+[4C]AF5E - AE7E TempleText7
+[44]AF7A - AE8B TempleText8
+[50]AF9D - AEAF TempleText9
+[52]AFB9 - AEC9 TempleText10
+[54]AFD9 - AEE2 TempleText11
+[56]AFF0 - AEED TempleText12
+[58]B019 - AF14 TempleText13
+[5A]A4E9
+[5C]A4E9
+[5A]A4E9
+[60]B06A - AF64 TrainingText1
+[62]B07A - AF6E TrainingText2
+[64]B08F - AF7F TrainingText3
+[66]B0B2 - AFA6 TrainingText4
+[68]B0CA - AFB3 TrainingText5
+[6A]B0E3 - AFC5 TrainingText6
+[6C]B111 - AFD9 TrainingText7
+[6E]B132 - AFF1 TrainingText8
+[70]B147 - B004 TrainingText9
+[72]A4E9
+[74]A4E9
+[76]A4E9
+[78]A4E9
+[7A]A4E9
+[7C]A4E9
+[7E]A4E9
+[80]AADA - AA86 TavernText1(-2)
+[82]AB35 - AAE6 TavernText2(-2)
+[84]ABA3 - AB49 TavernText3(-2)
+[86]AC2E - ABBF TavernText4(-2)
+[88]AC96 - AC25 TavernText5(-2)
+[8A]ACCC - AC50 TavernText6(-2)
+[8C]AD5A - ACC6 TavernText7(-2)
+[8E]ADC1 - AD26 TavernText8(-2)
+[90]ADEF - AD55 TavernText9(-2)
+[92]AE3C - ADA4
+[94]AE3C - ADA4
+[96]AE3C - ADA4
+[98]AE3C - ADA4
+[9A]AE3C - ADA4
+[9C]AE3C - ADA4
+[9E]AE3D - ADA5 TavernRumorsMenu
+
+ 
+
+[X=A52D] () jump from A507
+[00]A54F - Inn
+[02]A6AA - A6A0 Zam
+[04]A8C0 - A88B Blacksmith
+[06]A9ED - A97A FoodShop
+[08]AAA1 - AA4D TownExit
+[0A]AAC7 - AA73 Tavern
+[0C]AE66 - ADCE Temple
+[0E]B01C - AF20 Training
+[10]B187 - Succubus
+[12]B1DF - Down
+[14]B22D - MarionSign
+[16]B234 - BsmithSign
+[18]B23B - InnSign
+[1A]B29D - TempleSign 
+[1C]B36D - Note
+[1E]B2A4 - TavernSign
+[20]B2AB - TrainingSign
+
+
+Tavern sub BD07 (BD00-BD06) local variables

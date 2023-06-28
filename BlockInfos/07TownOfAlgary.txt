@@ -1,0 +1,115 @@
+
+-------------------
+Town of Algary
+-------------------
+18D800
+
+
+[X=A433]
+
+[00]A4FB -> 
+[02]A646 -> A652 Inn1
+[04]A664 -> A671 Inn2
+[06]A687 -> A691 Inn3
+[08]A4E7 ->
+[0A]A4E7 ->
+[0C]A4E7 ->
+[0E]A4E7 ->
+[10]A4E7 ->
+[12]A9FB -> A975 Food1
+[14]AA0E -> A983 Food2
+[16]AA21 -> A99F Food3
+[18]A4E7 -> 
+[1A]A4E7 -> 
+[1C]A4E7 -> 
+[1E]A4E7 -> 
+[20]A8B3 -> A867 Blacksmith1
+[22]A8D1 -> A886 Blacksmith2
+[24]A8E6 -> A892 Blacksmith3
+[26]A901 -> A8AD Blacksmith4
+[28]A91F -> A8D6 Blacksmith5
+[2A]A939 -> A8EA Blacksmith6
+[2C]A94A -> A8F8 Blacksmith7
+[2E]A962 -> A911 Blacksmith8
+[30]A4E7 -> 
+[32]A4E7 -> 
+[34]A4E7 -> 
+[36]A4E7 -> 
+[38]A4E7 -> 
+[3A]A4E7 -> 
+[3C]A4E7 -> 
+[3E]A4E7 -> 
+[40]A4E7 ->
+[42]AFEF -> AEA9 Temple1
+[44]B003 -> AEBF Temple2
+[46]B017 -> AECA Temple3
+[48]B02D -> AEDF Temple4
+[4A]B040 -> AEFB Temple5
+[4C]B057 -> AF1B Temple6
+[4E]B06A -> AF35 Temple7
+[50]B07B -> AF42 Temple8
+[52]B096 -> AF64 Temple9
+[54]B0B5 -> AF7A Temple10
+[56]B0CF -> AF93 Temple11
+[58]B0E4 -> AFA8 Temple12
+[5A]B103 -> AFC7 one space Temple13
+[5C]A4E7 -> 
+[5E]A4E7 -> 
+[60]A4E7 ->
+[62]B16F -> B00A Training1
+[64]B179 -> B015 Training2
+[66]B189 -> B026 Training3
+[68]B19E -> B042 Training4
+[6A]B1B1 -> B052 Training5
+[6C]B1BC -> B05E Training6
+[6E]B1CF -> B074 Training7
+[70]B1E3 -> B097 Training8
+[72]B1FE -> B0B0 Training9
+[74]A4E7 -> 
+[76]A4E7 -> 
+[78]A4E7 -> 
+[7A]A4E7 -> 
+[7C]A4E7 -> 
+[7E]A4E7 -> 
+[80]A4E7 ->
+[82]AAA8 -> A9F4 TavernTip1
+[84]AB16 -> AA6C TavernTip2
+[86]AB71 -> AAC0 TavernTip3
+[88]ABE2 -> AB3E TavernTip4
+[8A]AC2A -> AB9E TavernTip5
+[8C]AC9A -> AC14 TavernTip6
+[8E]ACED -> AC8B TavernTip7
+[90]AD40 -> ACFE TavernTip8
+[92]AD9D -> AD6C TavernTip9
+[94]ADDE -> ADBF TavernTip10
+[96]AF66 -> AE33
+[98]AF66 -> AE33
+[9A]AF66 -> AE33
+[9C]AF66 -> AE33
+[9E]AF66 -> AE33
+[A0]AF67 -> AE34
+
+[X=A54B] () jump from A51B
+[00]A577 -> Inn
+[02]A6BA -> A6A6 Zom
+[04]A887 -> A83B Blacksmith
+[06]A9BB -> A926
+[08]AA53 -> A9A6
+[0A]AA95 -> A9E1 TavernTexts
+[0C]AF98 -> AE65 Temple
+[0E]B130 -> AFC9 Training
+[10]B286 -> B0D1 Morango
+[12]B3BB -> B219 sign1
+[14]B3C2 -> B220 sign2
+[16]B3C9 -> B227 sign3
+[18]B3D0 -> B22E sign4
+[1A]B498 -> B2D7 Note
+[1C]B4C8 -> B2F9 Pit
+[1E]B506 -> Portal
+[20]B506 -> Portal
+[22]B506 -> Portal
+[24]B3D7 -> B235 sign5
+[26]B506 -> Portal
+[28]B3DE -> B23C sign6
+[2A]B3E5 -> B243 sign7
+

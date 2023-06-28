@@ -1,0 +1,27 @@
+-------------------
+Cave under Sorpigal
+-------------------
+
+[X=]
+[00]A575
+[02]A5B1
+[04]A5B2
+[06]A5BB
+[08]A5C0
+[0A]A5EB
+[0C]A60B
+[0E]A79F -> A794
+[10]A7C7 -> A7BC
+[12]A7DA -> A7C8
+[14]A8A2 -> A87D
+[16]A8B7 -> A892
+[18]A8B7 -> A892
+[1A]A8B7 -> A892
+[1C]A8CF -> A8AA
+[1E]A8CF -> A8AA
+[20]A8CF -> A8AA
+[22]A8CF -> A8AA
+[24]A8CF -> A8AA
+[26]A8CF -> A8AA
+[28]A7C7 -> A7BC
+

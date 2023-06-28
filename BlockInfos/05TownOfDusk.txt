@@ -1,0 +1,128 @@
+
+-------------------
+Town of Dusk
+-------------------
+17D800
+
+
+[X=A433]
+[--]A4F9 
+[00]A66A -> A67A InnText1
+[02]A686 -> A696 InnText2
+[04]A6A1 -> A6BA InnText3
+[06]A4E5
+[08]A4E5
+[0A]A4E5
+[0C]A4E5
+[0E]A4E5
+[10]AB71 ->  AACB FoodShop1
+[12]AB7B ->  AADB FoodShop2
+[14]AB8E ->  AAEE FoodShop3
+[16]A4E5 -> 
+[18]A4E5 -> 
+[1A]A4E5 -> 
+[1C]A4E5 -> 
+[1E]A4E5 -> 
+[20]AA23 ->  A9B3 ItemShop1
+[22]AA33 ->  A9D0 ItemShop2
+[24]AA40 ->  A9DD ItemShop3
+[26]AA5A ->  A9FB ItemShop4
+[28]AA71 ->  AA27 ItemShop5
+[2A]AA8D ->  AA3F ItemShop6
+[2C]AAA3 ->  AA5A ItemShop7
+[2E]AAB7 ->  AA75 ItemShop8
+[30]A4E5 -> 
+[32]A4E5 -> 
+[34]A4E5 -> 
+[36]A4E5 -> 
+[38]A4E5 -> 
+[3A]A4E5 -> 
+[3C]A4E5 -> 
+[3E]A4E5 -> 
+[40]AF9D ->  AEA1 TempleText1 
+[42]AFAE ->  AEB7 TempleText2
+[44]AFC5 ->  AEC1 TempleText3
+[46]AFDF ->  AED1 TempleText4
+[48]AFF2 ->  AEEB TempleText5
+[4A]B007 ->  AF0E TempleText6
+[4C]B01C ->  AF1F TempleText7
+[4E]B02F ->  AF2E TempleText8
+[50]B04E ->  AF4F TempleText9
+[52]B073 ->  AF67 TempleText10
+[54]B091 ->  AF80 TempleText11
+[56]B09E ->  AF8D TempleText12
+[58]B0C2 ->  AFAB TempleTextSpace
+[5A]A4E5 -> 
+[5C]A4E5 -> 
+[5E]A4E5 -> 
+[60]B148 ->  AFF2 TrainText1
+[62]B153 ->  AFFD TrainText2
+[64]B163 ->  B00E TrainText3
+[66]B176 ->  B028 TrainText4
+[68]B186 ->  B041 TrainText5
+[6A]B193 ->  B049 TrainText6
+[6C]B1AB ->  B061 TrainText7
+[6E]B1B5 ->  B06A TrainText8
+[70]B1CD ->  B084 TrainText9
+[72]A4E5 -> 
+[74]A4E5 -> 
+[76]A4E5 -> 
+[78]A4E5 -> 
+[7A]A4E5 -> 
+[7C]A4E5 -> 
+[7E]A4E5 -> 
+[80]AC1B ->  AB5A TavernTip1
+[82]AC80 ->  ABCB TavernTip2
+[84]ACD1 ->  AC20 TavernTip3
+[86]AD48 ->  AC97 TavernTip4
+[88]AD97 ->  ACEF TavernTip5
+[8A]ADEF ->  AD5A TavernTip6
+[8C]AE5A ->  ADCE TavernTip7
+[8E]AF52 ->  AE43
+[90]AF52 ->  AE43
+[92]AF52 ->  AE43
+[94]AF52 ->  AE43
+[96]AF52 ->  AE43
+[98]AF52 ->  AE43
+[9A]AF52 ->  AE43
+[9C]AF52 ->  AE43
+[9E]AF52 ->  AE43
+
+[X=A569] () jump from A51D
+[00]A5C0 -> Inn
+[02]A6E2 -> A6D2 Telgoran
+[04]A9DC -> A97C Blacksmith
+[06]AB3B -> AA8E Food
+[08]ABC9 -> AAFC Exit
+[0A]AC0D -> AB4C Tips
+[0C]AF6C -> AE5D Temple
+[0E]B113 -> AFAD Train
+[10]B24E -> B0A5 
+[12]B25F -> B0B6 Ladder
+[14]B2AB -> B108 Sign1
+[16]B2B2 -> B10F Sign2
+[18]B2B9 -> B116 Sign3
+[1A]A5B1 -> 
+[1C]A5B1 -> 
+[1E]B37E -> 
+[20]B37E -> 
+[22]B37E -> 
+[24]B2F2 -> B14F Sign5
+[26]B37E -> 
+[28]B2F9 -> B156 Sign4
+[2A]B300 -> B15D Sign6
+[2C]B37E
+[2E]B37E
+[30]B37E
+[32]B37E
+[34]B37E
+[36]B3BF
+[38]B3D3
+[3A]B3DA
+[3C]B3DA
+[3E]B3DA
+[40]B3DA
+[42]B3DA
+[44]B3DA
+[46]B3DA
+[48]A560

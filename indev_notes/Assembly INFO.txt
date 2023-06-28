@@ -1,0 +1,170 @@
+SYSCARD3.info 12x12 font begins on 0x30200
+
+Intro text loader: 0x52DE read char at 0x52EE
+8K RAM (Mapped to 0x2000-0x3FFF)
+0x2000-0x20FF ZeroPage (RAM)
+0x2100-0x21FF Stack
+
+0x3000-0x33FF BRRamSave
++0x00-08 Name
++0x10 Sex
++0x12 Alingment
++0x13 Race
++0x14 Class
++0x15-16 Intellect Def/Cur.
++0x17-18 Might Def/Cur.
++0x19-1A Personality Def/Cur.
++0x1B-1C Endurance Def/Cur.
++0x1D-1E Speed Def/Cur.
++0x1F-20 Accuracy Def/Cur.
++0x21-22 Luck Def/Cur.
++0x24 Level
++0x25 Age
++0x33 Max HP
++0x35 Current HP
++0x3F Condition
+
+
+0x3371 ??? Profile
+
+0x3400-0x37FF EmptySave???   
+0x3800-0x3FFF(0x3E80) ScrTileMap
+
+0x5424 (0x2424 on disc) ScreenWindowData 
+
+C0-EF GfxTiles
+
+0xFFF5 BaseMemBank
+
+Intro Text:
+1.TextSpirtes: 4415-1A (851415-1A)
+1.SpriteNumPosition load: 4428 (851428)
+Other Intro texts and sprite data:
+9F30
+
+Track 11 file lenght: 33630208
+
+2FC0 UsedAutoMapPalette
+2FE0 AutoMapPaletteBackup
+
+3360 Protection List
+
+
+Spec text codes:
+0C - 
+0D - new line
+0E - new page
+0F - 
+
+A9 - page drop cursor
+
+2FA0 store the items (4852) Sub start on 482D (called from 6CD7)
+4856 CPY $#0E (C0 0E) this long
+
+
+6C7A (on disc:3C7A) japanese mark: 「 to " '"
+6C23 jump to 568F -> 567B load it? 
+6CD1 fills 6C78-79 (sub 6CD1)
+6DF4 load text ona app. menu element
+6E32 load ptr from string table
+6E2A loads the "," on CC06
+
+595C store 82
+Number in text stored A000
+
+VDC BackgroundStored on 3800-4000
+
+
+8x8 palates:
+2, 18: Hiragana grey background
+5, 21: Hiragana blue background
+6, 22: Katakana grey background
+7, 23: Katakana blue background
+
+7C57-7D96 Pointers
+-----------------------------------------------------------------
+Font differ is disabled: is shift <- 4byte every 2nd 8x8 tile in 12x12 font
+
+570E	BEQ $5713 (F003) --> BRA $5713 (8003)   
+-----------------------------------------------------------------
+Spec code lines:
+
+53F1 LoadScreenPos
+ScreenPosition X: 20D2
+ScreenPosition Y: 20D3
+
+4610 Read a game map write to 2014-2015
+
+556C 8x8 text loader code line
+
+5690 8x12 text loader code line
+
+8AC2 8x8 menu in battle
+
+7E72 8x8 1st beast name loader line
+7880 8x8 beast name loader line
+
+84B9 8x8 battle text loader line
+-----------------------------------------------------------------
+
+text pointer load formats (if address xxyy)
+
+Direct Load using only register A:
+      A0      A1
+A9yy85D0A9xx85D1
+|   |   |  |_____STA $D1 /$A1/
+|   |	|________LDA xx
+|   |____________STA $D0 /$A0/
+|________________LDA yy	
+
+
+Store into two registers then jump the Load part:
+    A2
+A9yyA0xx4Czzzz
+|   |   |______JMP zzzz /load into $D0-D1 part/
+|   |__________LDY xx /A2 -> LDX/
+|______________LDA yy	
+
+
+Load from pointer
+
+Battle text load D0D1 and 4243  (0501) 
+
+
+Load from Table
+BD 35A4 (lda $A435,x)
+85 D0   (sta $D0)
+for blacksmith on 6775
+
+
+Scrach Pad Map:
+
+2010 x
+2011 y
+
+2023 facing 00-north 01-east 02-south 03-west
+
+intro text: on cd 851C0C
+
+-------------------
+Area C-2
+-------------------
+27D800
+A435
+
+A53A
+[X=]
+[00]A556
+[02]A870 -> Cave
+[04]A5A5 -> A5AE TownEnter
+[06]A634 -> A63D Pit1
+[08]A634 -> A63D Pit2
+[0A]A634 -> A63D Pit3
+[0C]A634 -> A63D Pit4
+[0E]A634 -> A63D Pit5
+[10]A6F4 -> A6FD WhiteColumn
+[12]A748 -> A74F Statue
+[14]A7BA -> Spring
+[16]A7BA -> Spring
+[18]A842 -> A84A Avalance
+[1A]A9C1

@@ -1,0 +1,7 @@
+33630208
+33931264
+
+split MM-02.iso -b 33931264
+
+in GitBash:
+split MM-02.iso -b 33630208

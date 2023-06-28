@@ -1,0 +1,113 @@
+
+-------------------
+Town of Erluquin
+-------------------
+16D800
+
+
+[X=A433] (16D833)
+[00]A51E 
+[00]A68D -> A699 InnText1
+[02]A6A6 -> A6B6 InnText2
+[04]A6BF -> A6D8 InnText3
+[06]A4E8
+[08]A4E8
+[0A]A4E8
+[0C]A4E8
+[0E]A4E8
+[10]AB9C -> AB17 FoodShop
+[12]ABBA -> AB2E FoodShop
+[14]ABD9 -> AB57 FoodShop
+[16]A4E8 -> 
+[18]A4E8 -> 
+[1A]A4E8 -> 
+[1C]A4E8 -> 
+[1E]A4E8 -> 
+[20]AA54 -> AA00 ItemShop1
+[22]AA6E -> AA1A ItemShop2
+[24]AA79 -> AA25 ItemShop3
+[26]AA8C -> AA41 ItemShop4
+[28]AAA0 -> AA50 ItemShop5
+[2A]AABB -> AA66 ItemShop6
+[2C]AAD2 -> AA75 ItemShop7
+[2E]AAF1 -> AA93 ItemShop8
+[30]A4E8 -> 
+[32]A4E8 -> 
+[34]A4E8 -> 
+[36]A4E8 -> 
+[38]A4E8 -> 
+[3A]A4E8 -> 
+[3C]A4E8 -> 
+[3E]A4E8 -> 
+[40]B057 -> AFA6 TempleText1 
+[42]B066 -> AFBE TempleText2
+[44]B077 -> AFC7 TempleText3
+[46]B08F -> AFE1 TempleText4
+[48]B0A9 -> AFF7 TempleText5
+[4A]B0B9 -> B016 TempleText6
+[4C]B0C9 -> B026 TempleText7
+[4E]B0D8 -> B033 TempleText8
+[50]B0F7 -> B05B TempleText9
+[52]B10D -> B070 TempleText10
+[54]B12A -> B087 TempleText11
+[56]B135 -> B092 TempleText12
+[58]B14C -> B0B0 TempleTextSpace
+[5A]A4E8 -> 
+[5C]A4E8 -> 
+[5E]A4E8 -> 
+[60]B1DC -> B106 TrainText1
+[62]B1E6 -> B111 TrainText2
+[64]B1F6 -> B121 TrainText3
+[66]B20A -> B148 TrainText4
+[68]B21F -> B152 TrainText5
+[6A]B224 -> B164 TrainText6
+[6C]B23C -> B178 TrainText7
+[6E]B24C -> B18C TrainText8
+[70]B265 -> B1A4 TrainText9
+[72]A4E8 -> 
+[74]A4E8 -> 
+[76]A4E8 -> 
+[78]A4E8 -> 
+[7A]A4E8 -> 
+[7C]A4E8 -> 
+[7E]A4E8 -> 
+[80]AC7A -> ABF3 TavernTip1
+[82]ACF6 -> AC63 TavernTip2
+[84]AD58 -> ACD0 TavernTip3
+[86]ADAB -> AD2C TavernTip4
+[88]AE12 -> AD98 TavernTip5
+[8A]AE95 -> ADE8 TavernTip6
+[8C]AF02 -> AE60 TavernTip7
+[8E]AF62 -> AEBF TavernTip8
+[90]B001 -> AF4B
+[92]B001 -> AF4B
+[94]B001 -> AF4B
+[96]B001 -> AF4B
+[98]B001 -> AF4B
+[9A]B001 -> AF4B
+[9C]B001 -> AF4B
+[9E]B002 -> AF4C
+
+[X=A5B0] () jump from A57C
+[00]A5DC -> Inn
+[02]A728 -> A736 Agar
+[04]AA09 -> A9B1 ItemShop
+[06]AB3D -> AAB3 FoodShop
+[08]AC13 -> AB86 Exit	
+[0A]AC67 -> ABE0 TavernTips
+[0C]B023 -> AF6D Temple
+[0E]B19E -> B0C8 Train
+[10]B3DD -> B3DD Teleport
+[12]B2CE -> B1DB StairsDown
+[14]B32A -> Sign1
+[16]B331 -> Sign2
+[18]B338 -> Sign3
+[1A]B43C -> Guards
+[1C]B43C -> Guards
+[1E]B43C -> Guards
+[20]B43C -> Guards
+[22]B43C -> Guards
+[24]B33F -> Sign4
+[26]B43C -> Guards
+[28]B346 -> Sign5
+[2A]B34D -> Sign6

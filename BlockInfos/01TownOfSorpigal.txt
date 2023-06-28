@@ -1,0 +1,120 @@
+Town of Sorpigal
+----------------
+1AD800
+
+Pointer Table1, load from (6775)
+A435 (1AD835) - A4D4?
+[X=]
+[00]A666 - InnText1 ->A652
+[02]A687 - InnText2 ->A66B
+[04]A6AA - InnText3 ->A684
+[06]A4E8
+[08]A4E8
+[0A]A4E8
+[0C]A4E8
+[0E]A4E8
+[10]A929 - FoodText1 ->A8DA
+[12]A93F - FoodText2 ->A8F0
+[14]A950 - FoodText3 ->A901
+[16]A4E8
+[18]A4E8
+[1A]A4E8
+[1C]A4E8
+[1E]A4E8
+[20]A7B9 - BlacksmithText1 ->A7A3
+[22]A7D6 - BlacksmithText2 ->A7B5
+[24]A7ED - BlacksmithText3 ->A7C0
+[26]A810 - BlacksmithText4 ->A7D1
+[28]A833 - BlacksmithText5 ->A7EF
+[2A]A852 - BlacksmithText6 ->A80A
+[2C]A87C - BlacksmithText7 ->A82F
+[2E]A899 - BlacksmithText8 ->A84E
+[30]A4E8 
+[32]A4E8
+[34]A4E8
+[36]A4E8
+[38]A4E8
+[3A]A4E8
+[3C]A4E8
+[3E]A4E8
+[40]AE5B - TempleText1 ->AD8F
+[42]AE7A - TempleText2 ->ADA2
+[44]AE92 - TempleText3 ->ADAB
+[46]AEB0 - TempleText4 ->ADC9
+[48]AED1 - TempleText5 ->ADE1
+[4A]AEF6 - TempleText6 ->AE00
+[4C]AF09 - TempleText7 ->AE10
+[44]AF27 - TempleText8 ->AE1D
+[50]AF4C - TempleText9 ->AE41
+[52]AF6A - TempleText10 ->AE56
+[54]AF8C - TempleText11 ->AE71
+[56]AFA3 - TempleText12 ->AE7C
+[58]AFC4 - TempleText13 ->AE97
+[5A]A4E8
+[5C]A4E8
+[5A]A4E8
+[60]B017 - TrainingText1 ->AEE2
+[62]B027 - TrainingText2 ->AEED
+[64]B03C - TrainingText3 ->AEFE
+[66]B061 - TrainingText4 ->AF20
+[68]B07F - TrainingText5 ->AF35
+[6A]B08E - TrainingText6 ->AF46
+[6C]B0B5 - TrainingText7 ->AF5B
+[6E]B0D8 - TrainingText8 ->AF74
+[70]B0F1 - TrainingText9 ->AF92
+[72]A4E8
+[74]A4E8
+[76]A4E8
+[78]A4E8
+[7A]A4E8
+[7C]A4E8
+[7E]A4E8
+[80]A9B9 - TavernText1(-2=x0A0C) ->A97C
+[82]AA08 - TavernText2(-2=x0C0E) ->A9BF
+[84]AA7C - TavernText3(-2=x0E11) ->AA2F
+[86]AB01 - TavernText4(-2=x1114) ->AAA7
+[88]AB95 - TavernText5(-2=x1417) ->AB1A
+[8A]AC26 - TavernText6(-2=x1718) ->AB9D
+[8C]AC77 - TavernText7(-2=x181A) ->ABCF
+[8E]AD07 - TavernText8(-2=x1A1B) ->AC3C
+[90]AD51 - TavernText9(-2=x1B1C) ->AC8B
+[92]AD95 - TavernText10(-2=x1C1D)->ACD7
+[94]ADE3
+[96]ADE3
+[98]ADE3
+[9A]ADE3
+[9C]ADE3
+[9E]ADE4 - TavernRumorsMenu ->AD1F
+
+Pointer Table2, load from (A51C)
+A553 (1AD953) - A587
+
+[X=]
+[00]A588
+[02]A6EB - InnSign ->A6E6
+[04]A746 - Blacksmith ->A722
+[06]A8B2 - FoodShop ->A863
+[08]A980 - TownExit ->A921
+[0A]A9A6 - Tavern ->A969
+[0C]AE15 - Temple ->AD50
+[0E]AFC7 - Training ->AE99
+[10]B11F - Travel ->AFBB
+[12]B277 - GoDown ->B121z
+[14]B2C8 - DragonStatue->B168
+[16]B2D7 - ClericStatue ->B177
+[18]B2D2 - KnightStatue ->B172
+[1A]B2E1 - MinotaurStatue ->B181
+[1C]B2DC - RobberStatue ->B17C
+[1E]B2C3 - WizardStatue ->B163
+[20]B2BE - ArcherStatue ->B15E
+[22]B2CD - PaladinStatue->B16D
+[24]B90A - TempleSign
+[26]B914 - JailSign
+[28]B91E - TavernSign
+[2A]B928 - TrainingSign
+[2C]B934
+[2E]B942 - Trap
+[30]A6F7 - FoodShopSign ->A6CF
+[32]A703 - BlacksmithSign ->A6FE
+
+Tavern sub BD07 (BD00-BD06) local variables

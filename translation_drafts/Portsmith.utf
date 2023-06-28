@@ -1,0 +1,244 @@
+Inn-------------------------------------------------------------------------------------------------------------------------
+ララ「今夜お泊まりでしたら宿帳にサインしてくださるかしら？」
+Lara:If you will be spending the night, sign a hotel register?
+
+ララ「これまでの冒険を記録するわね。」
+Lara:I'll record your adventures.
+
+ララ「まだ冒険を続けるのかしら？」
+Lara:Are you still going on an adventure?
+
+ララ「お気を付けて。」
+Lara:Take care.
+
+お疲れ様でした
+Good job.
+
+Zam-------------------------------------------------------------------------------------------------------------------------
+ｦザム「私はザム、ゾムのアストラルの兄弟です。私はポートスミスに住むたった一人の男なのです。
+Zam:I'm Zam, the astral brother of Zom. I am the only man who lives in Portsmith.
+
+私が教えられるのは１－１５と言う事だけです。」
+All I can tell you is 1-15.
+
+ザム「王の依頼は困難なものも多いのですが、そろそろ受けてみてもいいかもしれませんね。」
+Zam:Many of the King's requests are challenging, but it's time to take them now.
+
+ザム「君達に用はないよ。」
+Zam:I no business with you.
+	
+-------------------------------------------------------------------------------------------------------------------------
+何かメッセージが書いてある
+There is a message on it.
+
+メイド・マリオンの市場
+MaidMarion's
+   Market
+
+　　レディー　　ブラックスミス
+　　  Lady      
+ Blacksmith
+
+ポートスミスの宿
+  Inn of    
+ Portsmith   
+
+Blacksmith-------------------------------------------------------------------------------------------------------------------------
+「私に何か御用かしら？」
+What can I do for you?
+
+「何をお求めになりますか？」
+What would you like to buy?
+
+「有難うございます。」
+Thank you.
+
+「ゴールドが足りないわね。」
+Not enough gold.
+
+「ほかに何か御用はあるかしら？」
+Is there anything else I can do for you?
+
+「何を売ってくださるの？」
+What do you sell?
+
+ゴールドで引き取らせていただくわ。」
+ Gold I give you.
+
+「何を鑑定すればいいかしら？」
+What can I appraise?
+
+「有難うございました。」
+Thank you very much.
+
+Food-------------------------------------------------------------------------------------------------------------------------
+「何でも見ていって気に入ったら買っておくれ。」
+If you see anything that you like, buy it.
+
+「さ、持ってっとくれ。」
+Here, take it.
+
+「ゴールドが足りないよ。」
+There's not enough gold.
+
+「商売の邪魔だよ。あっちいっとくれ。」
+You're disturbing my business. Leave me alone.
+
+
+Tavern-------------------------------------------------------------------------------------------------------------------------
+「この町にも男の人はいるのよ。
+その人の兄弟がアルガリーの町の南西にいるって聞いたわ。」
+There is only one man in this town.
+I heard his brother lives southwest in the town of Algary.
+
+「この町は女ばっかりで変わってるでしょ？
+いっぱいいて大変かもしれないけど女の子の名前は覚えておくものよ。」
+In this town lives woman only, right?
+It may be a big deal, you have to remember the girls names.
+
+「ローブをまとったエルフに会いたいのならポータルを使ってダスクの町へ行くといいわ。
+そこから南へ向かってまっすぐ歩けば彼に会えるわよ。」
+If you want to see the robed elf, use the portal to go to Town of Dusk.
+From there, walk to south and you'll find him.
+
+「ダスクの町の地下はワナでいっぱいよ。
+でもあなた達が無事に北西へたどり着いたら神殿が見つかるわよ。」
+The cave under Dusk is full of traps.
+But if you get to the northwest safely, you'll find the shrine.
+
+「このエリアにはホワイトウルフの城がありますわ。」
+There's a Castle WhiteWolf in this area.
+
+「この町の北西にコリンブルッフの洞窟があります。
+多くの者がそこに住む魔法使いを訪ねようとしましたが誰一人として会ったことはないのです。」
+Korin Bluff cave is located northwest of the town.
+Many have tried to find the wizard who live there, but no one has succeeded.
+
+「北東の山には何度登っても飽きないの。
+ほんとにいい眺めだったわ。
+町の近くにあるのもラッキーよね。」
+I climb the northeast mountains many times.
+It's a nice view.
+We're lucky is close to the town.
+
+「特別な鍵を必要とする扉があるそうです。」
+There is a door that requires a special key.
+
+「あなた、強そうね。
+でも火山の神に出会っても生きて帰ってこられるかしら？」
+Oh, you look strong.
+But if you meet a Volcano god, will you make it out alive?
+
+Temple-------------------------------------------------------------------------------------------------------------------------
+「私の助けをお求めですか？」
+Do you need my help?
+
+「どなたを治すのでしょうか？」
+Who will be healed?
+
+は健康な体に戻りました。」
+ are healed.
+
+はどこも悪くないみたいですね。」
+ are not wounded.
+
+「ゴールドが足りません。」
+Not enough gold.
+
+「どなたの呪いを解きましょうか？」
+Whose curse shall be removed?
+
+の呪いは解けました。」
+ curse removed.
+
+は呪われてはいませんね。」
+ not cursed.
+
+「どなたの属性を戻しましょうか？」
+Whose attributes shall be restored?
+
+の属性は元に戻りました。」
+ attributes are restored.
+
+の属性は変わっていませんね。」
+ attributes not changed.
+
+「有難うございます。」
+Thank you.
+
+「保護の呪文を唱えてさしあげましょう。」
+I will cast a protection spell on you.
+
+「
+Is 
+
+Train-------------------------------------------------------------------------------------------------------------------------
+「トレーニングにいらしたのですか？」
+Did you come for training?
+
+レベルアップ！
+Level up!
+
+スペルレベルアップ！
+Spell level up!
+
+「ゴールドが足りないようですが。」
+I'm afraid you don't have enough Gold.
+
+「レベルアップにはあと
+To level up 
+
+ＥＸ必要のようですね。」
+ EXP more needed.
+
+「トレーニングを御希望の方はどなたですか？」
+Who wants to train?
+
+「あまり無理はなさらぬように。」
+Don't take it too hard.
+
+「最高レベルです。」
+The highest level.
+
+「体調が悪そうですね。このままではトレーニングできませんよ。」
+You look like you're in bad condition.
+You can't train like this.
+
+-------------------------------------------------
+
+地下へ降りるはしごがある降りますか？
+Do you go down on a ladder to the basement?
+
+ゾレルダの　　　待ち合い酒場
+ Zorelda's  
+Waiting Bar
+
+サッキュバス寺院
+  Succubon  
+   Temple   
+
+
+アマゾネス訓練場
+ Amazonia`s  
+  Training
+
+町の出口に来た出て行くか？
+You are standing at the town exit, go out?
+
+「わらわはポートスミスの支配者。
+この町に男がいることを許さぬのは
+わらわの意志によるものなのじゃ。
+　　　　　　　▽
+
+この秘密を知ったお前達を
+生きて帰すわけにはいかぬ。」
+I am the ruler of Portsmith.
+It was by my own will not allow a man to be in this town.
+
+Now that I know this secret, I can't let you leave alive.
+
+ノート：ザムは（１２、２）にいる
+Note:Zam is at (12,2).
+
+男は体の水分を吸い取られた！！
+Males health are drained!!
