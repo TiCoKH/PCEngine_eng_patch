@@ -13,8 +13,8 @@ You can use **Chris Putnam** binmerge on Redump version [binmerge](https://githu
 ## Know issues
 - needed some alignment and fix on a profile screen.
 - text input screen cleanup just with roman letters.
-- battle screen in text in draft now, and spell names come from different area then main menu.
-- cleanup my 4x8 font hack lefovers what is ruining some text output now (amount of Gold and battle texts).
+- battle screen text in draft, spell names come from different area then main menu.
+- cleanup my 4x8 font hack leftovers what is ruining some text output now (amount of Gold and battle texts).
 - blacksmith inspection text output need to better aligned.
 
 ## Further possible improvement
