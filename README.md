@@ -8,7 +8,7 @@ I used with Japanse version 3.0 patched rom, never tested with USA version. Be s
 ## Create Patched Game image
 Game translation released as PPF-O-Matic .ppf path file. Work primaly with TOSEC "trurip" .img version. md5 hash: **6050d7260923a5671e1191d8bcea64ce** .
 Also work with Redump version (with 11 separate .bin and .cue file) just needed merge back to one .bin file (size needed to be 285728016 bytes, same as TOSEC version)
-You  can use **Chris Putnam** binmerge on Redump version [binmerge] (https://github.com/putnam/binmerge).
+You can use **Chris Putnam** binmerge on Redump version [binmerge](https://github.com/putnam/binmerge).
 
 ## Know issues
 - needed some alignment and fix on a profile screen.
