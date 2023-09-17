@@ -11,10 +11,10 @@ Also work with Redump version (with 11 separate .bin and .cue file) just needed 
 You can use **Chris Putnam** binmerge on Redump version [binmerge](https://github.com/putnam/binmerge).
 
 ## Know issues
-- needed some alignment and fix on a profile screen.
+- ~~needed some alignment and fix on a profile screen.~~
 - text input screen cleanup just with roman letters.
-- battle screen text in draft, spell names come from different area then main menu.
-- cleanup my 4x8 font hack leftovers what is ruining some text output now (amount of Gold and battle texts).
+- ~~battle screen text in draft, spell names come from different area then main menu.~~
+- ~~cleanup my 4x8 font hack leftovers what is ruining some text output now (amount of Gold and battle texts).~~
 - blacksmith inspection text output need to better aligned.
 
 ## Further possible improvement
