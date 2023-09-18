@@ -105,6 +105,10 @@ ScreenPosition Y: 20D3
 7880 8x8 beast name loader line
 
 84B9 8x8 battle text loader line
+
+C4F5 Load and switch to battle view (after change start at _begin [4000])
+
+2700 In Battle monsters
 -----------------------------------------------------------------
 
 text pointer load formats (if address xxyy)
@@ -168,3 +172,7 @@ A53A
 [16]A7BA -> Spring
 [18]A842 -> A84A Avalance
 [1A]A9C1
+
+Text add kana "ha"
+--------------------
+a9d185d0a94385d1
